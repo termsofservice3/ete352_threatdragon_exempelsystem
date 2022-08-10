@@ -918,23 +918,23 @@
               "isTrustBoundary": true,
               "hasOpenThreats": false
             },
-            "id": "7078fd38-937e-4ecf-b1d0-9c1fd8b614e3",
+            "id": "475b8b3f-fecc-4fd4-8041-512d874b3a46",
             "source": {
-              "x": 780,
-              "y": 10
+              "x": 203,
+              "y": 120
             },
             "target": {
-              "x": 1040,
-              "y": 170
+              "x": 250,
+              "y": 320
             },
             "vertices": [
               {
-                "x": 800,
-                "y": 120
+                "x": 270,
+                "y": 140
               },
               {
-                "x": 890,
-                "y": 190
+                "x": 270,
+                "y": 270
               }
             ]
           },
@@ -966,23 +966,71 @@
               "isTrustBoundary": true,
               "hasOpenThreats": false
             },
-            "id": "475b8b3f-fecc-4fd4-8041-512d874b3a46",
+            "id": "67793f0d-fd2d-4608-967d-8bcc6706f3bc",
             "source": {
-              "x": 203,
-              "y": 120
+              "x": 860,
+              "y": 200
             },
             "target": {
-              "x": 250,
-              "y": 320
+              "x": 1020,
+              "y": 200
             },
             "vertices": [
               {
-                "x": 270,
-                "y": 140
+                "x": 900,
+                "y": 220
               },
               {
-                "x": 270,
-                "y": 270
+                "x": 960,
+                "y": 220
+              }
+            ]
+          },
+          {
+            "shape": "trust-broundary-curve",
+            "attrs": {
+              "line": {
+                "targetMarker": "",
+                "sourceMarker": ""
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "labels": [
+              {
+                "attrs": {
+                  "text": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "99d4a451-6e19-4496-9efc-bbd90e0eeecb",
+            "source": {
+              "x": 760,
+              "y": 20
+            },
+            "target": {
+              "x": 760,
+              "y": 150
+            },
+            "vertices": [
+              {
+                "x": 730,
+                "y": 50
+              },
+              {
+                "x": 730,
+                "y": 110
               }
             ]
           },
